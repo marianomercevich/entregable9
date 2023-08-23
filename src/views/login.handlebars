@@ -1,0 +1,41 @@
+<div class="card mx-auto bg-dark" style="width: 18rem;">
+  <img
+    src="https://png.pngtree.com/element_origin_min_pic/00/00/06/12575cb97a22f0f.jpg"
+    class="card-img-top"
+    alt="..."
+  />
+  <div class="card-body">
+    <h5 class="card-title">Tienes cuenta?</h5>
+    <div>
+      <div>      
+        <form id="formulario" method="POST" action="/api/sessions/login">
+          <ul>
+            <label for="email">email: </label>
+            <input type="text" id="email" name="email" />
+          </ul>
+          <ul>
+            <label for="password">Password: </label>
+            <input type="password" id="password" name="password" />
+          </ul>
+          <ul class="button">
+            <button class="btn btn-primary" type="submit">Ingresar</button>
+          </ul>
+        </form>
+      </div>
+      <div>
+          <form class="card mx-auto bg-dark"action="/api/sessions/github">
+          <h6 class="mx-auto ">ingresa con github </h6>
+          <button type="submit" class="btn btn-primary">Ingresar</button>
+        </form>
+      </div>
+
+      <hr />
+      <form class="card mx-auto bg-dark" action="/api/sessions/registro">
+        <h6 class="mx-auto ">No estas registrado? </h6>
+        <button type="submit" class="btn btn-primary">Registrarme</button>
+
+
+    </div>
+
+  </div>
+</div>

@@ -1,0 +1,146 @@
+[
+	{
+		"id": 1,
+		"title": "ANTIPARRAS WIRTZ",
+		"description": "ANTIPARRAS WIRTZ CROSS AMARILLA",
+		"code": "antp04",
+		"price": 15500,
+		"status": true,
+		"stock": 20,
+		"category": "ANTIPARRAS",
+		"thumbnail": "Sin imagen"
+	},	
+	{
+		"id": 2,
+		"title": "ANTIPARRAS WIRTZ",
+		"description": "ANTIPARRAS WIRTZ CROSS AMARILLA",
+		"code": "antp04",
+		"price": 15500,
+		"status": true,
+		"stock": 20,
+		"category": "ANTIPARRAS",
+		"thumbnail": "Sin imagen"
+	},
+	{
+		"id": 3,
+		"title": "Puños wirtz",
+		"description": "Puños marrones cafe racer",
+		"code": "puñ03",
+		"price": 5500,
+		"status": true,
+		"stock": 50,
+		"category": "PUÑOS",
+		"thumbnail": "Sin imagen"
+	},
+	{
+		"id": 4,
+		"title": "Puños wirtz",
+		"description": "Puños negros custom",
+		"code": "puñ04",
+		"price": 5500,
+		"status": true,
+		"stock": 50,
+		"category": "PUÑOS",
+		"thumbnail": "Sin imagen"
+	},
+	{
+		"id": 5,
+		"title": "ANTIPARRAS WIRTZ",
+		"description": "ANTIPARRAS WIRTZ CROSS VERDE",
+		"code": "antp01",
+		"price": 15500,
+		"status": true,
+		"stock": 20,
+		"category": "ANTIPARRAS",
+		"thumbnail": "Sin imagen"
+	},
+	{
+		"id": 6,
+		"title": "ANTIPARRAS WIRTZ",
+		"description": "ANTIPARRAS WIRTZ CROSS NARANJA",
+		"code": "antp03",
+		"price": 15500,
+		"status": true,
+		"stock": 20,
+		"category": "ANTIPARRAS",
+		"thumbnail": "Sin imagen"
+	},
+	{
+		"id": 7,
+		"title": "ANTIPARRAS WIRTZ",
+		"description": "ANTIPARRAS WIRTZ CROSS ROJA",
+		"code": "antp02",
+		"price": 15500,
+		"status": true,
+		"stock": 20,
+		"category": "ANTIPARRAS",
+		"thumbnail": "Sin imagen"
+	},
+	{
+		"id": 8,
+		"title": "ANTIPARRAS WIRTZ",
+		"description": "ANTIPARRAS WIRTZ CROSS AMARILLA",
+		"code": "antp04",
+		"price": 15500,
+		"status": true,
+		"stock": 20,
+		"category": "ANTIPARRAS",
+		"thumbnail": "Sin imagen"
+	},
+	{
+		"id": 9,
+		"title": "Puños wirtz",
+		"description": "Puños marrones cafe racer",
+		"code": "puñ03",
+		"price": 5500,
+		"status": true,
+		"stock": 50,
+		"category": "PUÑOS",
+		"thumbnail": "Sin imagen"
+	},
+	{
+		"id": 10,
+		"title": "Puños wirtz",
+		"description": "Puños negros custom",
+		"code": "puñ04",
+		"price": 5500,
+		"status": true,
+		"stock": 50,
+		"category": "PUÑOS",
+		"thumbnail": "Sin imagen"
+	},
+	{
+		"id": 11,
+		"title": "ANTIPARRAS WIRTZ",
+		"description": "ANTIPARRAS WIRTZ CROSS VERDE",
+		"code": "antp01",
+		"price": 15500,
+		"status": true,
+		"stock": 20,
+		"category": "ANTIPARRAS",
+		"thumbnail": "Sin imagen"
+	},
+	{
+		"id": 12,
+		"title": "ANTIPARRAS WIRTZ",
+		"description": "ANTIPARRAS WIRTZ CROSS NARANJA",
+		"code": "antp03",
+		"price": 15500,
+		"status": true,
+		"stock": 20,
+		"category": "ANTIPARRAS",
+		"thumbnail": "Sin imagen"
+	},
+	{
+		"id": 13,
+		"title": "ANTIPARRAS WIRTZ",
+		"description": "ANTIPARRAS WIRTZ CROSS ROJA",
+		"code": "antp02",
+		"price": 15500,
+		"status": true,
+		"stock": 20,
+		"category": "ANTIPARRAS",
+		"thumbnail": "Sin imagen"
+	}
+
+]

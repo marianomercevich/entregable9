@@ -1,0 +1,49 @@
+<h1 class="text-light" >Productos</h1>
+<br>
+<hr />
+<div>
+    
+    <table class="table table-dark table-striped">
+        <thead >
+  <tr>
+        <th>title</th>
+        <th>description</th>
+        <th>price</th>
+        <th>thumbnail</th>
+        <th>code</th>
+        <th>stock</th>
+        <th>category</th>
+        <th>status</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{#each payload.docs}}
+        <tr>
+          <td>{{this.title}}</td>
+          <td>{{this.description}}</td>
+          <td>{{this.price}}</td>
+          <td> <a href={{this.thumbnail}}>foto</a></td>
+          <td>{{this.code}}</td>
+          <td>{{this.stock}}</td>
+          <td>{{this.category}}</td>
+          <td>{{this.status}}</td>
+          <td>
+            <form method="POST" action="/api/cart/2/products/{{this.code}}">
+              <input type="hidden" name="productId" value="{{this.code}}" />
+              <button type="submit" class="btn btn-primary">Agregar</button>
+            </form>
+          </td>
+        </tr>
+      {{/each}}
+    </tbody>
+  </table>
+
+  <div>
+    {{#if hasPrevPage}}
+      <a href="{{prevLink}}">Anterior</a>
+    {{/if}}
+    {{#if hasNextPage}}
+      <a href="{{nextLink}}">Siguiente</a>
+    {{/if}}
+  </div>
+</div>

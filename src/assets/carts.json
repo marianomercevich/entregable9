@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "products": [
+      {
+        "title": "Puños wirtz",
+        "description": "Puños amarillos cross",
+        "price": 5500,
+        "thumbnail": "Sin imagen"
+      },
+      {
+        "title": "ANTIPARRAS WIRTZ",
+        "description": "ANTIPARRAS WIRTZ CROSS FUCCIA",
+        "price": 15500,
+        "thumbnail": "Sin imagen"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "products": [
+      {
+        "title": "ANTIPARRAS WIRTZ",
+        "description": "ANTIPARRAS WIRTZ CROSS NARANJA",
+        "price": 15500,
+        "thumbnail": "Sin imagen"
+      },
+      {
+        "title": "PECHERA",
+        "description": "PECHERA WIRTZ MILITAR",
+        "price": 12500,
+        "thumbnail": "imagen"
+      }
+    ]
+  },
+  {
+    "id": 3
+  },
+  {
+    "id": 4
+  }
+]
